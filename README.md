@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **khuonghuyhieu0705@gmail.com**
 
-- My portfolio: **https://hieu-khuong.vercel.app/**
+- 🧑‍💻 My portfolio: **https://hieu-khuong.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
