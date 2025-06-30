@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khuonghuyhieu&label=Profile%20views&color=0e75b6&style=flat" alt="khuonghuyhieu" /> </p>
 
-- 🔭 I’m currently working on **Age code**
+- 🔭 I’m currently working on **Izi**
 
 - 📫 How to reach me **khuonghuyhieu0705@gmail.com**
 
